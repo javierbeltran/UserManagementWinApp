@@ -1,0 +1,10 @@
+C:\Users\NewUser\Desktop\WebSys\UserManagement.Library\obj\Debug\netstandard2.0\UserManagement.Library.csproj.AssemblyReference.cache
+C:\Users\NewUser\Desktop\WebSys\UserManagement.Library\obj\Debug\netstandard2.0\UserManagement.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NewUser\Desktop\WebSys\UserManagement.Library\obj\Debug\netstandard2.0\UserManagement.Library.AssemblyInfoInputs.cache
+C:\Users\NewUser\Desktop\WebSys\UserManagement.Library\obj\Debug\netstandard2.0\UserManagement.Library.AssemblyInfo.cs
+C:\Users\NewUser\Desktop\WebSys\UserManagement.Library\obj\Debug\netstandard2.0\UserManagement.Library.csproj.CoreCompileInputs.cache
+C:\Users\NewUser\Desktop\WebSys\UserManagement.Library\bin\Debug\netstandard2.0\UserManagement.Library.deps.json
+C:\Users\NewUser\Desktop\WebSys\UserManagement.Library\bin\Debug\netstandard2.0\UserManagement.Library.dll
+C:\Users\NewUser\Desktop\WebSys\UserManagement.Library\bin\Debug\netstandard2.0\UserManagement.Library.pdb
+C:\Users\NewUser\Desktop\WebSys\UserManagement.Library\obj\Debug\netstandard2.0\UserManagement.Library.dll
+C:\Users\NewUser\Desktop\WebSys\UserManagement.Library\obj\Debug\netstandard2.0\UserManagement.Library.pdb
